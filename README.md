@@ -10,3 +10,7 @@ HTML5 & CSS3: For the frontend design and layout.
 JavaScript: For form handling and interactivity.
 PHP: For backend QR code generation.
 phpqrcode Library: A PHP library for generating QR codes.
+
+link to download the `phpqrcode` library:
+
+[Download phpqrcode Library](https://sourceforge.net/projects/phpqrcode/)
